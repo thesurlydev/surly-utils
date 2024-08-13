@@ -1,0 +1,2 @@
+rootProject.name = "surly-utils"
+
